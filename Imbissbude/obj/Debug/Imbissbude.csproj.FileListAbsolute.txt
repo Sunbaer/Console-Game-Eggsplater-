@@ -1,0 +1,8 @@
+C:\Users\marti\Desktop\Schule\5AAIFT\POS\Imbissbude\Imbissbude\bin\Debug\Imbissbude.exe.config
+C:\Users\marti\Desktop\Schule\5AAIFT\POS\Imbissbude\Imbissbude\bin\Debug\Imbissbude.exe
+C:\Users\marti\Desktop\Schule\5AAIFT\POS\Imbissbude\Imbissbude\bin\Debug\Imbissbude.pdb
+C:\Users\marti\Desktop\Schule\5AAIFT\POS\Imbissbude\Imbissbude\obj\Debug\Imbissbude.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Schule\5AAIFT\POS\Imbissbude\Imbissbude\obj\Debug\Imbissbude.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\Desktop\Schule\5AAIFT\POS\Imbissbude\Imbissbude\obj\Debug\Imbissbude.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Schule\5AAIFT\POS\Imbissbude\Imbissbude\obj\Debug\Imbissbude.exe
+C:\Users\marti\Desktop\Schule\5AAIFT\POS\Imbissbude\Imbissbude\obj\Debug\Imbissbude.pdb
